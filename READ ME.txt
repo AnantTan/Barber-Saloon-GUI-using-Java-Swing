@@ -1,0 +1,3 @@
+Open Xampp or Wamp. Create a database called barbershop and import the sql file given.
+
+For the database connection add external JDBC connector to the project if using eclipse.
